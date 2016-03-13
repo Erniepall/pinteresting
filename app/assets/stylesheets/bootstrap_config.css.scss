@@ -1,0 +1,32 @@
+$body-bg:        								#bdc3c7;
+$navbar-default-bg:   							white;
+$navbar-default-link-color: 					#c0392b;
+$brand-primary: 								#16a085;
+$jumbotron-bg: 									white;
+$panel-default-heading-bg: 						#9b59b6;
+$brand-danger: 									#c0392b;
+$navbar-height: 								45px;
+
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+.center {
+	
+	text-align: center;
+}
+
+
+body {
+
+	font-family: 'oswald', sans-serif;
+
+}
+
+.navbar-brand {
+	
+	font-weight: bold;
+	
+}
+
