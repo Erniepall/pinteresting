@@ -18,9 +18,15 @@ gem 'devise', '~> 3.5.6'
 
 gem 'paperclip', '~> 4.3.6'
 
+gem 'masonry-rails'
+
+gem 'aws-sdk', '>= 2.0.34'
+
 gem 'jquery-rails'
 
 gem 'turbolinks'
+
+gem 'jquery-turbolinks'
 
 gem 'jbuilder', '~> 2.0'
 

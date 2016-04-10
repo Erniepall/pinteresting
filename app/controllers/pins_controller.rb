@@ -5,7 +5,6 @@
 
   def index
     @pins = Pin.all
-    respond_with(@pins)
   end
 
   def show
